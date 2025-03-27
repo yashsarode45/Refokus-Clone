@@ -1,5 +1,5 @@
 # Refokus Clone ✨ - Interactive Animations with React, GSAP & Motion
-A dynamic, animation-focused website built with **React**, **GSAP**, and **Motion** (previously Framer Motion). This project aims to showcase visually engaging animations and interactions, inspired by modern design principles.
+A dynamic, animation-focused website built from scratch with **React**, **GSAP**, and **Motion** (previously Framer Motion). This project aims to showcase visually engaging animations and interactions, inspired by modern design principles.
 
 [**Live Demo**](https://refokus-clone-yash.vercel.app/)
 
