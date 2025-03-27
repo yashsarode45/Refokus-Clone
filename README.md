@@ -15,7 +15,7 @@ A dynamic, animation-focused website built with **React**, **GSAP**, and **Motio
 	* **Mouse-Following Window:** A unique window element tracks your mouse movements within specific row boundaries. 
 	* **Hover-Based Scene Changes:** Hovering over different rows dynamically changes the scene displayed within the mouse-following window, creating an immersive and interactive showcase.
 ## 🛠️ Tech Stack
-- ⚛️ React + Vite
+- ⚛️ React + Typescript + Vite
 - 🎬 GSAP (GreenSock Animation Platform)
 - 🌀 Motion
 - 🎨 Tailwind CSS
