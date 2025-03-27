@@ -3,9 +3,9 @@ A dynamic, animation-focused website built from scratch with **React**, **GSAP**
 
 [**Live Demo**](https://refokus-clone-yash.vercel.app/)
 
-<img width="1728" alt="image" src="https://github.com/user-attachments/assets/0f6b0ac4-9b12-4fde-bb8b-5f553b3c3e3d" />
+https://github.com/user-attachments/assets/30390716-0b06-4d6f-b17d-ca27a82ddcb6
 
-<img width="1728" alt="image" src="https://github.com/user-attachments/assets/2febc88e-4db7-4fa3-a927-c4e91344c6f2" />
+
 
 
 ## 🌟 Features
