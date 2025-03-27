@@ -1,0 +1,6 @@
+/* src/styles/fonts.css */
+@font-face {
+  font-family: "Satoshi";
+  src: url("../public/66aa728085dec3390cb7f058_Satoshi-Variable.ttf")
+    format("truetype");
+}
