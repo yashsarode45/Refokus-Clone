@@ -16,7 +16,7 @@ const Navbar = forwardRef<HTMLDivElement, Props>((props, ref) => {
         <a
           className=" self-center  transition-all duration-300"
           target="_blank"
-          href="https://github.com/yashsarode45"
+          href="https://github.com/yashsarode45/Refokus-Clone#"
         >
           <FaGithub className=" w-9 h-9" />
         </a>
